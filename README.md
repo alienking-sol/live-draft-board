@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="draft-board" src="https://github.com/user-attachments/assets/e65e451a-ffb0-48ee-84f7-0bd3af1c2d1e" />
+
 # Live Draft Board
 
 A personal draft-night display for **one private Yahoo Fantasy league**. It runs on a
@@ -8,7 +8,7 @@ the league drafts.
 It is read-only, single-league, and not publicly hosted. Nothing it fetches is stored,
 republished, or shared outside the twelve managers already in the league.
 
-[image]
+<img width="1600" height="900" alt="draft-board" src="https://github.com/user-attachments/assets/3279a753-214f-4430-8751-b06a0b690f7d" />
 
 ## What it shows
 
