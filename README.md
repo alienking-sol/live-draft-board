@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="draft-board" src="https://github.com/user-attachments/assets/e65e451a-ffb0-48ee-84f7-0bd3af1c2d1e" />
 # Live Draft Board
 
 A personal draft-night display for **one private Yahoo Fantasy league**. It runs on a
